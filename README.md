@@ -28,6 +28,6 @@ python filter-ip.py
 
 Voir le script BASH dans ce repo
 
-chmod + nmap_scan.sh
+chmod +x nmap_scan.sh
 
 ./nmap_scan.sh
