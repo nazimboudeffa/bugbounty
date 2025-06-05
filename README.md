@@ -22,10 +22,12 @@ $cat domain-httpx.txt | wc
 
 Voir le script Python dans ce repo
 
+python filter-ip.py
+
 ## Scan nmap sur une liste d'IPs
 
 Voir le script BASH dans ce repo
 
-chmod + 
+chmod + nmap_scan.sh
 
 ./nmap_scan.sh
