@@ -1,6 +1,6 @@
 # RECON
 
-Phaser de Recon
+Phase de Recon
 
 ## Lister les sous domaines
 
