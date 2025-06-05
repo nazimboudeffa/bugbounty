@@ -4,6 +4,8 @@ Phase de Recon en se disant qu'on va avoir des vecteurs d'attaque comme sur les 
 
 ## Lister les sous domaines
 
+Comment installer subfinder sur Parrot OS https://www.youtube.com/watch?v=sW6YLkAVU0o
+
 `$subfinder -d domain.com -o domain-subfinder.txt`
 
 ## Nombre de sous domaines
