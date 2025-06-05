@@ -28,4 +28,4 @@ Voir le script BASH dans ce repo
 
 chmod + 
 
-./scrupt.sh
+./nmap_scan.sh
