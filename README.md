@@ -20,7 +20,7 @@ Comment installer subfinder sur Parrot OS https://www.youtube.com/watch?v=sW6YLk
 
 `$cat domain-httpx.txt | wc`
 
-## Resoudre les Ips des sous domaines
+## Resoudre les IPs des sous domaines
 
 `$httpx -l dailymotion-httpx.txt -ip -o dailymotion-ip-resolved.txt`
 
